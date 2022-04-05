@@ -1,3 +1,3 @@
 # machine-learning-basics
 
-Python Notebooks for building Deep Learning layers using Numpy
+Python Notebooks for building Deep Learning layers using Numpy and Torch
